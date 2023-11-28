@@ -5,7 +5,8 @@
 <odoo>
 
     <record id="dms.portal_my_home_dms" model="ir.ui.view">
-        <field name="customize_show" eval="True"/>
+        <field name="name">Show Documents</field>
+        <field name="customize_show" eval="True" />
     </record>
 
 </odoo>
