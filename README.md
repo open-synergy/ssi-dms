@@ -14,7 +14,11 @@ ssi-dms
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[ssi_dms](ssi_dms/) | 14.0.1.0.0 |  | Document Management System
 
 [//]: # (end addons)
 
